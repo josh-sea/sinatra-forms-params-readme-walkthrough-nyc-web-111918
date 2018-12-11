@@ -5,7 +5,6 @@
 In this codealong lesson, we'll create a new HTML form and connect it to a Sinatra application so that we can use and manipulate the data provided by the user.
 
 ## Objectives
-
 1. Build a basic HTML form
 2. Connect an HTML form to a Sinatra application via the `method` and `action` attributes
 3. Build a `POST` route in Sinatra's application controller to accept data from a form via params.
